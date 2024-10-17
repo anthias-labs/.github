@@ -1,5 +1,7 @@
 # Anthias
 
+![image](https://github.com/anthias-labs/.github/blob/main/banner.jpeg)
+
 ***Anthias is a boutique economic modelling and research consultancy.***
 
 Anthias maintains several open-source public goods aiming to enhance the simulation and modelling infrastructure in the Ethereum ecosystem. 
