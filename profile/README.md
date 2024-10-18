@@ -2,7 +2,7 @@
   <img alt="anthias logo" src="https://github.com/anthias-labs/.github/blob/main/logo.svg" width="auto" height="120">
 </picture>
 
-***Anthias Labs is a boutique economic modeling and research consultancy.***
+<a href="https://www.anthias.xy">Anthias Labs</a> is a boutique economic modeling and research consultancy.
 
 Anthias maintains several open-source public goods aiming to enhance the simulation and modeling infrastructure in the decentralized finance ecosystem. 
 We additionally offer three key proprietary services aimed towards increasing protocol capital efficiency, market efficiency, and resilience:
