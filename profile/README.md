@@ -1,6 +1,6 @@
 # Anthias Labs
 <picture>
-  <img src="https://github.com/anthias-labs/.github/blob/main/logo.png" width="auto" height="120">
+  <img src="https://github.com/anthias-labs/.github/blob/main/logo.svg" width="auto" height="120">
 </picture>
 
 ***Anthias Labs is a boutique economic modeling and research consultancy.***
