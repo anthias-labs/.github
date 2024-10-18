@@ -1,4 +1,4 @@
-# Anthias
+# Anthias Labs
 
 ![image](https://github.com/anthias-labs/.github/blob/main/banner.jpeg)
 
