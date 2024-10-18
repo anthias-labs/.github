@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/anthias-labs/.github/blob/main/logo.svg">
-  <img alt="anthias logo" src="https://github.com/anthias-labs/.github/blob/main/logo.svg" width="auto" height="120">
+  <img alt="anthias logo" src="https://github.com/anthias-labs/.github/blob/main/logo.svg" width="auto" height="40">
 </picture>
 
 ***Anthias Labs is a boutique economic modeling and research consultancy.***
