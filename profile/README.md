@@ -1,5 +1,5 @@
 <picture>
-  <img alt="anthias logo" src="https://github.com/anthias-labs/.github/blob/main/logo.svg" width="auto" height="40">
+  <img alt="anthias logo" src="https://github.com/anthias-labs/.github/blob/main/logo.svg" width="auto" height="120">
 </picture>
 
 ***Anthias Labs is a boutique economic modeling and research consultancy.***
