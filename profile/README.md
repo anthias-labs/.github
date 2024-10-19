@@ -14,6 +14,7 @@ Currently Anthias provides:
 * [`arbiter`](https://github.com/anthias-labs/arbiter): Advanced agentic simulation toolkit and sandbox tool for Ethereum.
 * [`arena`](https://github.com/anthias-labs/arena): Framework to help LPs refine their liquidity strategies through robust market simulation and analysis.
 * [`octane`](https://github.com/anthias-labs/octane): Experimental Arbiter engine to utilize Alloy and Anvil.
+* [`verum`](https://github.com/anthias-labs/Arbitrum-Verum): Automatic Arbitrum reputation scoring.
 * [`flare`](https://github.com/anthias-labs/flare): Command-line tool for developers to interface with Solana.
 
 
