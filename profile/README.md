@@ -17,5 +17,7 @@ Currently Anthias provides:
 * [`verum`](https://github.com/anthias-labs/Arbitrum-Verum): Automatic Arbitrum reputation scoring.
 * [`flare`](https://github.com/anthias-labs/flare): Command-line tool for developers to interface with Solana.
 
+You can read some of our public [`research`](https://github.com/anthias-labs/research).
+
 
 To learn more about Anthias, visit <a href="https://www.anthias.xyz">our site</a> or <a href="https://x.com/anthiasxyz">Twitter</a> for updates.
